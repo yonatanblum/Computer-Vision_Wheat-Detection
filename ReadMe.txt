@@ -1,8 +1,7 @@
-Students Names: 
-Anna Meleshko 319346045
-Yonatan Blum 308131333
 
-We created 5 notebooks :
+Yonatan Blum 
+
+Created 5 notebooks :
 1. Global_Wheat_Detection_[Data_PreProcessing]_+_[Summary] 
 2. Faster_RCNN_WheatDetection
 3. GWD_EfiicientDet_[DataSet_+_Training_+_Evaluation_+WBF_TTA]
